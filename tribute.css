@@ -1,0 +1,75 @@
+img {
+    display: block;
+    width: 450px;
+    padding: 20px 0 15px 0;
+}
+
+#image {
+    max-width: 100%;
+    height: auto;
+    margin: 0 auto;
+}
+h1,p{
+    text-align: center;
+    margin: 15px;
+    font-weight: 800;
+
+}
+h1{
+    font-size: 40px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+p{
+    font-style: italic;
+}
+#tribute-info{
+    font-style: normal;
+    font-size: larger;
+}
+#img-caption{
+    text-align: center;
+    margin-bottom: 55px;
+    font-size: 16px;
+
+}
+section{
+    border: 1px none black;
+    margin-top: 25px;
+  
+}
+ul{
+    max-width: 550px;
+    margin: 0 auto 50px auto;
+    text-align: left;
+    line-height: 1.6;
+}
+
+li {
+    margin: 16px 0;
+}
+h2{
+    max-width: 550px;
+    margin: 0 auto 40px auto;
+    text-align: left;
+    line-height: 1.6;
+}
+#rahul{
+    border:1px none black;
+    background-color: white;
+    margin: 0 15px;
+}
+body{
+    border: 1px none black;
+    margin: 15px;
+    background-color: rgb(244, 244, 244);
+    border-radius: 9px;
+}
+html{
+    background-color: white;
+}
+#huh{
+    font-style: normal;
+}
+#tribute-link{
+    color: red;
+}
